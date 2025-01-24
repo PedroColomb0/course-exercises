@@ -1,15 +1,15 @@
-# Exercícios de Cursos Estudo🤖✨
+# AI Courses Exercises 🤖✨
 
-Bem-vindo ao repositório que contém os exercícios práticos dos cursos sobre **Inteligência Artificial** que estou realizando! 🧠💻
+Welcome to the repository that contains the practical exercises from the **Artificial Intelligence** courses I’m taking! 🧠💻
 
-### 📚 Cursos:
-- [Curso de Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
-- [Curso de Deep Learning - Udacity](https://www.udacity.com/course/deep-learning-pytorch--nd101)
-- [Curso de AI Fundamentals - edX](https://www.edx.org/course/artificial-intelligence-ai)
+### 📚 Courses:
+- [Machine Learning Course - Coursera](https://www.coursera.org/learn/machine-learning)
+- [Deep Learning Course - Udacity](https://www.udacity.com/course/deep-learning-pytorch--nd101)
+- [AI Fundamentals Course - edX](https://www.edx.org/course/artificial-intelligence-ai)
 
 ---
 
-### 🛠️ Ferramentas Utilizadas:
+### 🛠️ Tools Used:
 - **Python** 🐍
 - **TensorFlow** 🧠
 - **Keras** ⚙️
@@ -17,12 +17,12 @@ Bem-vindo ao repositório que contém os exercícios práticos dos cursos sobre 
 
 ---
 
-### ✨ Sobre:
-Esse repositório contém os **códigos**, **scripts** e **notebooks** criados durante o aprendizado desses cursos. Aqui, você encontrará desde modelos simples de regressão até redes neurais mais complexas.
+### ✨ About:
+This repository contains the **codes**, **scripts**, and **notebooks** created during the learning process of these courses. Here, you will find everything from simple regression models to more complex neural networks.
 
 ---
 
-### 📍 Como Usar:
-1. Clone o repositório:
+### 📍 How to Use:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/seu-usuario/exercicios-cursos-ai.git
+   git clone https://github.com/your-username/ai-courses-exercises.git
